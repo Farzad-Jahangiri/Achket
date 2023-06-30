@@ -1,0 +1,15 @@
+.containerheader {
+    background-color: rgb(27, 27, 27);
+    width: 100vw;
+    height: 3rem;
+    color: aliceblue;
+    justify-content: space-between;
+    display: flex;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+img {
+    width: auto;
+    height: 2rem;
+}

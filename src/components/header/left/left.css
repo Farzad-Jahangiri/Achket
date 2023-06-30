@@ -1,0 +1,14 @@
+.navleft {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: .25rem;
+    /* background-color: brown; */
+}
+
+.containerleft {
+    display: flex;
+    width: 50%;
+    justify-content: start;
+    /* background-color: aqua; */
+}

@@ -1,0 +1,10 @@
+.M-main{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #24252D;
+}
